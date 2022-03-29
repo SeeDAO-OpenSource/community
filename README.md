@@ -52,8 +52,10 @@
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Discord群              | [https://discord.gg/dK38VQRrg7](https://discord.gg/dK38VQRrg7)|
 | 电报群  | [https://t.me/+tzHB05EgBCRlYTBl](https://t.me/+tzHB05EgBCRlYTBl) |   |
-| SeeDAO NFT             | `0x23fDA8a873e9E46Dbe51c78754dddccFbC41CFE1`        |
+| SeeDAO NFT (SeeDAO Genesis)      | `0x23fDA8a873e9E46Dbe51c78754dddccFbC41CFE1`        |
 | NFT (Etherscan) | [https://cn.etherscan.com/address/0x23fda8a873e9e46dbe51c78754dddccfbc41cfe1](https://cn.etherscan.com/address/0x23fda8a873e9e46dbe51c78754dddccfbc41cfe1) |   |
 | NFT (OpenSea)   | [https://opensea.io/collection/seedao-v2](https://opensea.io/collection/seedao-v2)          |
+| POAP (Memory for SeeDAO) | `0x2c436d61c5af62bcbfee40b1f0be5b483dfa0e11` |
+| POAP (Polygonscan) | https://polygonscan.com/address/0x2c436d61c5af62bcbfee40b1f0be5b483dfa0e11 |
 | Dune    | [https://dune.xyz/alexanderxing/SeeDAO-NFT](https://dune.xyz/alexanderxing/SeeDAO-NFT)      |
 | 论坛    | [https://metaforo.io/g/seedao](https://forum.seedao.xyz/ )     |
